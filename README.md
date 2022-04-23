@@ -4,10 +4,14 @@ Hi 👋 My name is Arshith Suresh
 | Web Dev | Mobile Dev | Game Dev | 3d Artist | CG |
 ----------------------------------------------------
 
-*   🌍  I'm based in Kerala, India
-*   ✉️  You can contact me at [arshith007@gmail.com](mailto:arshith007@gmail.com)
-*   🧠  I'm learning Blockchain and Web3
-*   ⚡  Hyperactive | Code = (Coffee) Sleep;### Skills<p align="left">
+* 🌍  I'm based in Kerala, India
+* ✉️  You can contact me at [arshith007@gmail.com](mailto:arshith007@gmail.com)
+* 🧠  I'm learning Blockchain and Web3
+* ⚡  Hyperactive | Code = (Coffee) Sleep;
+
+### Skills
+
+<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -29,13 +33,24 @@ Hi 👋 My name is Arshith Suresh
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
+
 ### Socials
 
+<p align="left"> <a href="https://www.behance.com/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/ArshithSuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+### Badges
 
-<p align="left">
-<a href="https://www.behance.com/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/arshithsuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/ArshithSuresh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### 
+<b>My GitHub Stats</b>
 
-Badges<b>My GitHub Stats</b><a
-href="http://www.github.com/arshithsuresh"><img src="https://github-readme-stats.vercel.app/api?username=arshithsuresh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arshithsuresh's GitHub stats" /></a><a
-href="http://www.github.com/arshithsuresh"><img src="https://activity-graph.herokuapp.com/graph?username=arshithsuresh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/arshithsuresh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshithsuresh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/arshithsuresh/travel-app-ui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshithsuresh&repo=travel-app-ui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arshithsuresh/instagram-ui" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshithsuresh&repo=instagram-ui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/arshithsuresh/flutter-course-dart-exercises" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshithsuresh&repo=flutter-course-dart-exercises&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arshithsuresh/vaccine-listing-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshithsuresh&repo=vaccine-listing-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="http://www.github.com/arshithsuresh"><img src="https://github-readme-stats.vercel.app/api?username=arshithsuresh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arshithsuresh's GitHub stats" /></a>
+
+<a href="http://www.github.com/arshithsuresh"><img src="https://activity-graph.herokuapp.com/graph?username=arshithsuresh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/arshithsuresh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshithsuresh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/arshithsuresh/travel-app-ui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshithsuresh&repo=travel-app-ui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arshithsuresh/instagram-ui" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshithsuresh&repo=instagram-ui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/arshithsuresh/flutter-course-dart-exercises" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshithsuresh&repo=flutter-course-dart-exercises&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arshithsuresh/vaccine-listing-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arshithsuresh&repo=vaccine-listing-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>

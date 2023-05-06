@@ -6,7 +6,7 @@ Hi 👋 My name is Arshith Suresh
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [arshith007@gmail.com](mailto:arshith007@gmail.com)
-* 🧠  I'm learning Blockchain and Web3
+* 🧠  I'm learning Blockchain and DevOps
 * ⚡  Hyperactive | Code = (Coffee) Sleep;
 
 ### Skills
